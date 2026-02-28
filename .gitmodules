@@ -1,0 +1,3 @@
+[submodule "examples/azure-terraform-project"]
+	path = examples/azure-terraform-project
+	url = https://github.com/CloudCraftedRaj/azure-infrastructure-terraform.git
