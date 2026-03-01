@@ -193,3 +193,4 @@ if __name__ == "__main__":
     if not TF_WORKDIR.exists():
         raise SystemExit(f"Terraform directory not found: {TF_WORKDIR}")
     mcp.run()
+    
